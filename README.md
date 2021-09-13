@@ -6,6 +6,8 @@
 
 A step in linking games with computer vision !
 <br />
+screen shot: <a type="button" href="https://github.com/khod-naderi/flappy_bird/blob/master/media/screen-shot.jpg" >show</a>
+<br />
 
 ### installation
 
@@ -20,3 +22,7 @@ A step in linking games with computer vision !
 <br />
 <br />
 We will be happy if you support us in the development process.
+
+
+
+
