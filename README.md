@@ -11,11 +11,11 @@ screen shot: <a type="button" href="https://github.com/khod-naderi/flappy_bird/b
 
 ### installation
 
-1. clone project ```bash git clone https://github.com/khod-naderi/flappy_bird ```
-1. change directory to project ```bash cd flappy_bird ```
-1. install requirements ```bash pip3 install -r requirements.txt ```
+1. clone project ```git clone https://github.com/khod-naderi/flappy_bird ```
+1. change directory to project ```cd flappy_bird ```
+1. install requirements ```pip3 install -r requirements.txt ```
 1. Config Your Capture in line 70 src/flappy.py
-1. run ```bash python3 flappy.py ```
+1. run ```python3 flappy.py ```
 1. enjoy :)
 
 
